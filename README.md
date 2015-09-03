@@ -30,7 +30,7 @@ pod "BlinkingLabel"
 
 ## Author
 
-Walker, Clayton J., Clayton.J.Walker@disney.com
+Clayton Walker
 
 ## License
 
